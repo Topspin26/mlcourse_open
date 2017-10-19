@@ -106,3 +106,15 @@ ENV/
 /.idea/
 /out/
 *.iml
+jupyter_notebooks/project_alice/capstone_user_identification.zip
+jupyter_notebooks/project_alice/capstone_user_identification/*
+jupyter_notebooks/topic02_visual_analysis/years_stats.html
+data/alice/*
+jupyter_notebooks/topic02_visual_analysis/local/*
+data/data.hw4.tar.gz
+data/data.hw4/stackoverflow_sample_125k.tsv
+data/data.hw4/top10_tags.tsv
+data/movie_reviews_train.csv
+jupyter_notebooks/inclass_alice/submissions/*
+jupyter_notebooks/topic04_linear_models/*.png
+data/chicago/*
